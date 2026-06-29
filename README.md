@@ -23,4 +23,17 @@ Below you can explore the repositories of my projects. Each project includes its
 *   **Email:** ms.chiarelotto@gmail.com
 
 ---
+## 🚀 Featured Projects
+
+### 📚 University Chatbot for DIEM
+
+**Technologies:** Python, LangGraph, Qdrant, Gradio, LLMs
+
+A conversational AI assistant designed for university students to answer questions about courses, professors, regulations, and academic services. The system combines Retrieval-Augmented Generation (RAG), vector databases, and workflow orchestration through LangGraph.
+
+🔗 Repository: https://github.com/yourusername/chatbot_diem
+
+---
+
+
 
