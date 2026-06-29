@@ -12,7 +12,7 @@ While my current research and main projects are deeply rooted in NLP and LLMs, m
 *   **Computer Vision / Artificial Vision**
 *   **AI for Cybersecurity**
 *   **Data Science**
-*   
+  
 
 ### 🔭 What you'll find here
 Below you can explore the repositories of my projects. Each project includes its own README file detailing the main objectives, the methodologies applied, and the tech stack used.
