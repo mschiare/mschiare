@@ -19,7 +19,7 @@ Below you can explore the repositories of my projects. Each project includes its
 
 ### 📫 Let's connect!
 *   **LinkedIn:** [Insert your LinkedIn profile link here](#)
-*   **Email:** (mailto:ms.chiarelotto@gmail.com)
+*   **Email:** ms.chiarelotto@gmail.com
 
 ---
 
