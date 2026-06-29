@@ -23,7 +23,7 @@ Below you can explore the repositories of my projects. Each project includes its
 *   **Email:** ms.chiarelotto@gmail.com
 
 ---
-## 🚀 Featured Projects
+## 🚀 My Projects
 
 ### 📚 University Chatbot for DIEM
 
