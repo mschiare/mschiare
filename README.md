@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi there! 👋
 
-<!--
-**mschiare/mschiare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Master's degree candidate in **Computer Engineering for Artificial Intelligence**. My core focus and greatest passion lie in **NLP** (Natural Language Processing) and **LLMs** (Large Language Models).
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I created this space to collect, document, and publish my academic and personal projects. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 Academic Background & Interests
+While my current research and main projects are deeply rooted in NLP and LLMs, my academic journey has provided me with a solid foundation across multiple AI domains. Throughout my studies, I have gained experience in:
+
+*   **NLP & Large Language Models**
+*   **Machine Learning & Deep Learning**
+*   **Computer Vision / Artificial Vision**
+*   **AI for Cybersecurity**
+*   **Data Science**
+*   
+
+### 🔭 What you'll find here
+Below you can explore the repositories of my projects. Each project includes its own README file detailing the main objectives, the methodologies applied, and the tech stack used.
+
+### 📫 Let's connect!
+*   **LinkedIn:** [Insert your LinkedIn profile link here](#)
+*   **Email:** [Insert your email address here](mailto:youremail@example.com)
+
+---
+
