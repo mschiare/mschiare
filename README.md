@@ -12,7 +12,7 @@ While my current research and main projects are deeply rooted in NLP and LLMs, m
 *   **Computer Vision / Artificial Vision**
 *   **Generative AI**
 *   **AI for Cybersecurity**
-*   **Data Science**
+
   
 
 ### 🔭 What you'll find here
