@@ -54,6 +54,21 @@ A complete, end-to-end facial recognition pipeline optimized for university acce
 
 🔗 Repository: [biometric_identification_system](https://github.com/mschiare/Biometric-Identification-System)
 
+### 📚 Drawing Application
+
+**Technologies:** Java, JavaFX, Maven, SceneBuilder
+
+A desktop drawing application developed for the Software Architecture & Design course, designed around an extensible architecture based on GoF design patterns. The application provides an interactive canvas for creating and editing graphical objects, supporting shape manipulation, grid management, clipboard operations, and persistent project storage.
+
+Key features include:
+
+* **Drawing & Editing:** Create, move, resize, rotate, and customize geometric shapes and text objects.
+* **Canvas Management:** Configurable grid, zoom controls, layer ordering, and object selection.
+* **Editing Tools:** Copy, cut, paste, delete, undo, redo, and project save/load functionalities.
+* **Software Architecture:** Implements Factory, State, Observer, Decorator, and Command patterns to promote modularity, maintainability, and extensibility.
+
+🔗 Repository: [drawing-application](https://github.com/mschiare/Drawing-Application)
+
 
 
 ---
