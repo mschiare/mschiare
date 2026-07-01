@@ -41,7 +41,7 @@ A conversational AI assistant designed for university students to answer questio
 
 An implementation of a Conditional Variational Autoencoder (CVAE) for controlled face generation using the CelebA dataset. The system features a custom loss function combining reconstruction error and KL Divergence to ensure high-quality, fluid generation from a standard normal distribution. It includes an integrated attribute conditioning mechanism and a balanced batch sampler to handle class imbalance.
 
-🔗 **Repository:** [CVAE_face_generator](https://github.com/mschiare/cvae-face-generation/tree/main)
+🔗 Repository: [CVAE_face_generator](https://github.com/mschiare/cvae-face-generation/tree/main)
 
 ### 📚 Biometric Identification System
 
