@@ -41,6 +41,17 @@ An implementation of a Conditional Variational Autoencoder (CVAE) for controlled
 
 🔗 **Repository:** [CVAE_face_generator](https://github.com/mschiare/cvae-face-generation/tree/main)
 
+### 📚 Biometric Identification System
+
+**Technologies:** Python, Google Colab, ArcFace, RetinaFace, Silent-Face Anti-Spoofing, Gradio
+
+A complete, end-to-end facial recognition pipeline optimized for university access control. Operating entirely within Google Colab, the system features a cascade architecture integrating handcrafted image quality filters, liveness detection module, and two primary operational modalities:
+
+* **Verification Mode (1:1):** Validates a user's identity by comparing a live probe capture against a specifically claimed ID.
+* **Identification Mode (1:N):** Performs an open-set search across the entire biometric database to recognize an unknown user.
+
+🔗 Repository: [biometric_identification_system](https://github.com/mschiare/Biometric-Identification-System)
+
 
 
 ---
