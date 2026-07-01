@@ -9,10 +9,11 @@ While my current research and main projects are deeply rooted in NLP and LLMs, m
 
 *   **NLP & Large Language Models**
 *   **Machine Learning & Deep Learning**
+*   **Software Engineering**
 *   **Computer Vision / Artificial Vision**
 *   **Generative AI**
 *   **AI for Cybersecurity**
-*   **Software Engineering**
+* 
 
   
 
