@@ -29,7 +29,7 @@ Below you can explore the repositories of my projects. Each project includes its
 
 ### 📚 University Chatbot for DIEM
 
-**Technologies:** Python, LangGraph, Qdrant, Gradio, LLMs
+**Technologies:** Python, LangGraph, Qdrant, Gradio, LLMs, LangSmith, Ragas
 
 A conversational AI assistant designed for university students to answer questions about courses, professors, regulations, and academic services. The system combines Retrieval-Augmented Generation (RAG), vector databases, and workflow orchestration through LangGraph.
 
